@@ -1,0 +1,45 @@
+body {
+    background-color: #e5e5e5;
+    font-family: Arial, Verdana, '微軟正黑體';
+    padding-top: 50px;
+}
+
+div {
+    background-image: url('main.jpg');
+    width: 1000px;
+    height: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 82px;
+    color: palevioletred;
+}
+
+h2 {
+    font-size: 12px;
+    letter-spacing: 10px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+p {
+    width: 450px;
+    margin-bottom: 50px;
+    line-height: 1.5;
+}
+
+ul {
+    list-style-type: decimal; /* 圓點改成數字 */
+}
+
+li {
+    margin-bottom: 8px;
+    color: #666;
+}
+
+
